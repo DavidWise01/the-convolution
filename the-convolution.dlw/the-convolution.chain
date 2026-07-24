@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1555
+slug  : the-convolution
+seal  : fc9d74638cf201615e0fd4356419270aba56effa995b6127abe5ddf36f326456
+prev  : 5eb18d54e9c6aa79032f5d08aa6f2cdf3756dd7809c469be0a8222293b3c6c4e
+link  : 977604b5a9e7bb270ae1b6c01d899f8c3f41960979d61de850d57ecbab7758b7
+head  : 69a5c44c90874c67e851627331b8ebc9223d7f09fbadfe3fc578dfd981542985
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
